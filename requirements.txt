@@ -1,0 +1,7 @@
+dotenv
+datasets
+huggingface_hub
+transformers
+tensorflow
+tf-keras
+torch
