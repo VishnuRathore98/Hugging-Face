@@ -7,3 +7,7 @@ tf-keras
 torch
 hf_xet
 huggingface_hub[hf_xet]
+opencv-python
+numpy
+matplotlib
+pillow
