@@ -12,3 +12,5 @@ numpy
 matplotlib
 pillow
 accelerate
+diffusers
+tqdm
