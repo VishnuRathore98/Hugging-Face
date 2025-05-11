@@ -15,3 +15,8 @@ accelerate
 diffusers
 tqdm
 librosa
+SpeechRecognition
+PyAudio
+pocketsphinx
+pyannote.audio
+pydub
