@@ -20,3 +20,4 @@ PyAudio
 pocketsphinx
 pyannote.audio
 pydub
+gradio
